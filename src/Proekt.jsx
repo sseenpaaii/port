@@ -20,7 +20,7 @@ const Proekt = () => {
           alt=""
         />
         <p>
-          <h2>Crocodile podkroduli</h2>
+          <h2>Crocodile podkraduli</h2>
         </p>
         <p>
           <h2>30000$ </h2>
@@ -38,7 +38,7 @@ const Proekt = () => {
           alt=""
         />
         <p>
-          <h2>Original nike podkroduli</h2>
+          <h2>Original nike podkraduli</h2>
         </p>
         <p>
           <h2>20000$ </h2>
@@ -57,7 +57,7 @@ const Proekt = () => {
           alt=""
         />
         <p>
-          <h2>Winter podkroduli</h2>
+          <h2>Winter podkraduli</h2>
         </p>
         <p>
           <h2>50000$</h2>
@@ -65,6 +65,9 @@ const Proekt = () => {
         <p>
           <h2>Razmer: 41,43,45</h2>
         </p>
+      </div>
+      <div>
+        <img src="" alt="" />
       </div>
     </Container>
   );
